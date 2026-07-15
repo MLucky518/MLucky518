@@ -1,7 +1,10 @@
 <img width="2172" height="724" alt="ChatGPT Image Jul 15, 2026, 09_22_56 AM" src="https://github.com/user-attachments/assets/3fb47de2-a01f-412c-b549-538b9d874dbe" />
 
+<h1 align="center">🧙‍♂️ Michael | Level 35 Software Engineer</h1>
 
-<h1 align="center"> Hello, World, I'm Michael </h1>
+<p align="center">
+  <em>Self-taught coding wizard · Buscador de Conocimiento</em>
+</p>
 
 
 ## 📜 About Me
@@ -36,14 +39,8 @@ I'm a father of two and a bit of a nerd: anime, video games, and Star Wars all h
 
 ## 📫 Where to Find Me
 
-<p>
-  <a href="https://mlucky518.github.io">
-    <img src="https://img.shields.io/badge/Website-mlucky518.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+🌐 **Website:** [mlucky518.github.io](https://mlucky518.github.io)
+💼 **LinkedIn:** [linkedin.com/in/mlucky518](https://www.linkedin.com/in/mlucky518/)
 
 ---
 
