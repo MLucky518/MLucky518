@@ -15,9 +15,9 @@ I'm a father of two and a bit of a nerd: anime, video games, and Star Trek all h
 
 ## ⚔️ Things I Like ##
 
-🤖 Working with AI and understanding machine learning: not just using the tools, but learning what's actually happening under the hood
-🎮 Making video games: currently building in Godot, with experience in Unity and a bit of Unreal
-✍️ Creative writing: I write fiction, and building worlds is half the fun
+- 🤖 Working with AI and understanding machine learning: not just using the tools, but learning what's actually happening under the hood
+- 🎮 Making video games: currently building in Godot, with experience in Unity and a bit of Unreal
+- ✍️ Creative writing: I write fiction, and building worlds is half the fun
 
 ## 🎯 Things I Want to Accomplish
 
