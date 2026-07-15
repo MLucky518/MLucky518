@@ -11,7 +11,7 @@
 
 I'm a self-taught software engineer with a continuous thirst for knowledge. I love solving problems. It's how I got here, and it's why I stay. My brain doesn't like abstraction; I want to know the inner workings of things, how they actually work under the hood.
 
-I'm a father of two and a bit of a nerd: anime, video games, and Star Wars all have permanent residency in my brain.
+I'm a father of two and a bit of a nerd: anime, video games, and Star Trek all have permanent residency in my brain. Some of the games I'm playing right now are Arc Raiders and League of Legends and Madden.
 
 ## ⚔️ Things I Like ##
 
