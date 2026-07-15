@@ -7,17 +7,17 @@
 </p>
 
 
-## 📜 About Me
+## 📜 About Me ##
 
-I'm a self-taught software engineer with a continuous thirst for knowledge. I love solving problems. It's how I got here, and it's why I stay.
+I'm a self-taught software engineer with a continuous thirst for knowledge. I love solving problems. It's how I got here, and it's why I stay. My brain doesn't like abstraction; I want to know the inner workings of things, how they actually work under the hood.
 
 I'm a father of two and a bit of a nerd: anime, video games, and Star Wars all have permanent residency in my brain.
 
-## ⚔️ Things I Like
+## ⚔️ Things I Like ##
 
-- 🤖 Working with **AI** and understanding **machine learning**
-- 🎮 Making **video games**: currently building in **Godot**, with experience in **Unity** and a bit of **Unreal**
-- ✍️ **Creative writing**: I write fiction, and building worlds is half the fun
+🤖 Working with AI and understanding machine learning: not just using the tools, but learning what's actually happening under the hood
+🎮 Making video games: currently building in Godot, with experience in Unity and a bit of Unreal
+✍️ Creative writing: I write fiction, and building worlds is half the fun
 
 ## 🎯 Things I Want to Accomplish
 
