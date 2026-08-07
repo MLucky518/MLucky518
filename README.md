@@ -32,7 +32,7 @@ I'm a self-taught software engineer with a continuous thirst for knowledge. I lo
 
 ## 🐉 Known Debuffs
 
-- 😴 Sleep, lol
+- 😴 Sleep
 - 📦 Knowing when to take on *less* work
 
 ## 📫 Where to Find Me
